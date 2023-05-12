@@ -14,6 +14,8 @@ The use of the model is subject to the rules and regulations of the svc communit
 
 <audio src="D:\project\so-vits-svc-MaoBuYi\asssets\MBY.mp3"></audio>
 
+If you can't see the audio player, you can download the assets/MBY.mp3 and listen in local.
+
 ## Download
 
 ### config.json
@@ -40,3 +42,4 @@ Baidu Netdisk: [https://pan.baidu.com/s/10KfaNBklxBmdLfbQ7H8mRg?pwd=iihz](https:
 
 1. Download the config.json, Cluster model and model.
 2. Speaker choose "MBY". 
+
