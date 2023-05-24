@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This model is for research study and exploration use only, and open source. Any possible consequences have nothing to do with the original singer (Mao Buyi), the author of the model, or the contributors.
+This model is for research study and exploration use only, and open source. Any possible consequences have nothing to do with the original singer (Mao Buyi)(毛不易), the author of the model, or the contributors.
 
 It is forbidden to use this model commercially or to sell it.
 
